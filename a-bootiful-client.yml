@@ -1,0 +1,3 @@
+message: abcd foo version 10012
+server:
+  port:8762
